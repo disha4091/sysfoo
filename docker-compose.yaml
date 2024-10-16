@@ -4,4 +4,4 @@ services:
   sysfoo:
     image: disha4091/sysfoo:latest
     ports:
-      - 8888:8080
+      - 8888:8081
